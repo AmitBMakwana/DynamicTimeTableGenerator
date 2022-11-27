@@ -1,0 +1,24 @@
+.main{margin-top:60px; }
+.breadcrumb{ background-color:#ffffff;}
+.col-lg-2, .col-md-2, .col-lg-8 , .col-lg-12 , .col-md-12 , .col-md-8 , .col-lg-6 , .col-lg-10 , .col-lg-2 , .col-lg-3  ,.col-lg-2 , .col-md-3, .col-md-4 ,.col-md-6 , .col-lg-4 ,col-md-4 , col-sm-12 , col-xs-12{ margin-top:20px; }
+.stdtextbox{}
+.stdtextcolor{color:#007bff!important}
+.stdmenu{background-color:#FFFFFF !important;}
+.stdfooter{color:white; padding:5px; margin-top:100px;height:35px;background-color:#007bff!important;}
+.stdbutton{color:#fff;background-color:#007bff;border-color:#007bff }
+.stdbutton:hover{color:#fff;background-color:#0069d9;border-color:#0062cc}.stdbutton.focus,.stdbutton:focus{color:#fff;background-color:#0069d9;border-color:#0062cc;box-shadow:0 0 0 .2rem rgba(38,143,255,.5)}.stdbutton.disabled,.stdbutton:disabled{color:#fff;background-color:#007bff;border-color:#007bff}.stdbutton:not(:disabled):not(.disabled).active,.stdbutton:not(:disabled):not(.disabled):active,.show>.stdbutton.dropdown-toggle{color:#fff;background-color:#0062cc;border-color:#005cbf}.stdbutton:not(:disabled):not(.disabled).active:focus,.stdbutton:not(:disabled):not(.disabled):active:focus,.show>.stdbutton.dropdown-toggle:focus{box-shadow:0 0 0 .2rem rgba(38,143,255,.5)}
+#myBtn { display: none; position: fixed; bottom: 65px; right: 30px; z-index: 99; font-size: 18px; border: none; outline: none; cursor: pointer; border-radius: 400px;}
+.dropdown-menu{left: auto;}
+/*.menu{background-color:#f68328;}
+.menu{background-color:#eb429a;}
+.footer{background-color:#eb429a; color:white; padding:5px; margin-top:100px;}
+.footer{background-color:#f68328; color:white; padding:5px; margin-top:100px;} */
+.stdcrudtitle{margin-top: -25px;}
+.profile-picture{ height: 90px; width: 90px; }
+.aaplogo{ height: 50px; margin-bottom: 10px;  }
+.stdtransactiontitle{margin-top: -20px;}
+/*Start dropdown submenu*/
+.dropdown-submenu { position: relative; }
+.dropdown-submenu a::after { transform: rotate(-90deg); position: absolute; right: 6px; top: .8em;}
+.dropdown-submenu .dropdown-menu { top: 0; left: 100%; margin-left: .1rem; margin-right: .1rem; }
+/*End dropdown submenu*/
